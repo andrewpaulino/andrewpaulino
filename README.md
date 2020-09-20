@@ -1,5 +1,16 @@
 ### Hello, I am Andrew 👋
 
- - I am a software developer from Los Angeles, working on Summon.tv.
- - I am always looking for cool opportunities, so feel free to email me at andrewpaulino46@gmail.com
-- Lack of tiles on github is because I work on a lot of private repositories and other git sites (gitlab)
+ - I am a Software Engineer at Canoo!
+ - I love design, front-end, and even working with the back-end time to time.
+                      ___..............._
+             __.. ' _'.""""""\\""""""""- .`-._
+ ______.-'         (_) |      \\           ` \\`-. _
+/_       --------------'-------\\---....______\\__`.`  -..___
+| T      _.----._           Xxx|x...           |          _.._`--. _
+| |    .' ..--.. `.         XXX|XXXXXXXXXxx==  |       .'.---..`.     -._
+\_j   /  /  __  \  \        XXX|XXXXXXXXXXX==  |      / /  __  \ \        `-.
+ _|  |  |  /  \  |  |       XXX|""'            |     / |  /  \  | |          |
+|__\_j  |  \__/  |  L__________|_______________|_____j |  \__/  | L__________J
+     `'\ \      / ./__________________________________\ \      / /___________\
+        `.`----'.'   dp                                `.`----'.'
+          `""""'                                         `""""'
