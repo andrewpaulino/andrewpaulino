@@ -1,7 +1,6 @@
 ### Hello, I am Andrew 👋
 
- - I am a Software Engineer at Canoo!
- - I love design, front-end, and even working with the back-end time to time.
+ 
  
  
 ```       
