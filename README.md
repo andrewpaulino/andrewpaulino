@@ -1,5 +1,5 @@
 # Hello, I am Andrew 👋
 
-Developer at [OpenTable](https://opentable.com)&style=flat-square, a local table company.
+Developer at [OpenTable](https://opentable.com), a local table company. We specialize in birch wood, pinewood, and normal wood. Check us out at the first exit on 110 south. Thanks.
 
 ![](https://komarev.com/ghpvc/?username=andrewpaulino&style=for-the-badge)
